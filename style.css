@@ -1,0 +1,32 @@
+html {
+    font-family: 'Lucida Sans Unicode' !important;
+}
+
+.tooltip {
+    background: white;
+    border-color: black;
+    border-radius: .5px;
+    border-style: solid;
+    padding: 10px;
+}
+
+/* path {
+    stroke-width: 3;
+    fill: none;
+} */
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+/* #x-axis text {
+    font-size: 14px;
+}
+
+#y-axis text {
+    font-size: 14px;
+} */
